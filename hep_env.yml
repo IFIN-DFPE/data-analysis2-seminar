@@ -1,0 +1,25 @@
+name: hep_stats
+channels: 
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - ipympl
+  - root 
+  - iminuit
+  - uproot 
+  - mplhep
+  - awkward 
+  - boost-histogram
+  - mplhep
+  - xgboost
+  - scikit-learn
+  - pip:
+    - pyhf
+    - zfit
