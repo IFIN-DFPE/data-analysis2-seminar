@@ -20,6 +20,8 @@ dependencies:
   - mplhep
   - xgboost
   - scikit-learn
+  - vector
   - pip:
     - pyhf
     - zfit
+    - atlasopenmagic
