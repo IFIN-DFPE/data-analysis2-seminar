@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 .virtual_documents/
 *.docx
+*.root
+*.pptx
 .DS_Store
